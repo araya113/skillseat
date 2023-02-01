@@ -48,4 +48,4 @@ google拡張機能の開発は初めてだったので挙動の確認を丁寧�
 ### 技術スタック
 JavaScript, GitHub, Docker
 ### 担当した業務範囲及び内容
-- ホームベース認証を行うgoogle拡張機能の実装
+- ホームベース認証を行うgoogle拡張機能の実装(JavaScript)
