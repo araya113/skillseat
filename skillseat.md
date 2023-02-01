@@ -40,3 +40,12 @@ Ruby, Ruby on Ralis, JavaScript, Vue.js, GitHub, Swagger, Docker
 ### 担当した業務範囲及び内容
 - APIの実装及びテスト(Ruby on Rails)
 - フロントの開発(Vue.js)
+## SaaS管理ソフト
+SaaS管理ソフトの実装を行いました。
+google拡張機能の開発は初めてだったので挙動の確認を丁寧に行いました。
+### 期間
+2020/9 ~
+### 技術スタック
+JavaScript, GitHub, Docker
+### 担当した業務範囲及び内容
+- ホームベース認証を行うgoogle拡張機能の実装
