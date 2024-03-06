@@ -59,4 +59,4 @@ JavaScript, Typescript, GitHub, Docker
 ### 技術スタック
 JavaScript, Typescript, Vue.js, HTML, CSS,  GitHub,
 ### 担当した業務範囲及び内容
-- LPの作成
+- LPの作成(Vue.js)
